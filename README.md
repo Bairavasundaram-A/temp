@@ -1,3 +1,3 @@
 # temp
 Hello 
-[View images.jpg](./images.jpg)
+![Image](./images.jpg)
