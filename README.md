@@ -1,4 +1,4 @@
 # temp
 Hello 
 
-![Image](./images.jpg)
+<img src="./images.jpg" alt="Image" width="800">
